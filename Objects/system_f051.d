@@ -1,0 +1,9 @@
+.\objects\system_f051.o: Source\system_f051.c
+.\objects\system_f051.o: Source\mainconfig.h
+.\objects\system_f051.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h
+.\objects\system_f051.o: .\CMSIS\Include\core_cm0.h
+.\objects\system_f051.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_f051.o: .\CMSIS\Include\core_cmInstr.h
+.\objects\system_f051.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\system_f051.o: .\CMSIS\Include\core_cmFunc.h
+.\objects\system_f051.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h

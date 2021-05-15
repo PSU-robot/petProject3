@@ -1,0 +1,10 @@
+.\objects\myadc051.o: Source\MyPeriph\myadc051.c
+.\objects\myadc051.o: Source\MyPeriph\myadc051.h
+.\objects\myadc051.o: .\Source\mainconfig.h
+.\objects\myadc051.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h
+.\objects\myadc051.o: .\CMSIS\Include\core_cm0.h
+.\objects\myadc051.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\myadc051.o: .\CMSIS\Include\core_cmInstr.h
+.\objects\myadc051.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\myadc051.o: .\CMSIS\Include\core_cmFunc.h
+.\objects\myadc051.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h

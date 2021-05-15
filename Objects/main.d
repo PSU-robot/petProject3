@@ -1,0 +1,13 @@
+.\objects\main.o: Source\main.c
+.\objects\main.o: Source\mainconfig.h
+.\objects\main.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h
+.\objects\main.o: .\CMSIS\Include\core_cm0.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: .\CMSIS\Include\core_cmInstr.h
+.\objects\main.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\main.o: .\CMSIS\Include\core_cmFunc.h
+.\objects\main.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\objects\main.o: .\Source\MyPeriph\mygpio.h
+.\objects\main.o: .\Source\MyPeriph\myiwdg.h
+.\objects\main.o: Source\ssec.h
+.\objects\main.o: Source\mysettings.h

@@ -1,0 +1,10 @@
+.\objects\myiwdg.o: Source\MyPeriph\myiwdg.c
+.\objects\myiwdg.o: Source\MyPeriph\myiwdg.h
+.\objects\myiwdg.o: .\Source\mainconfig.h
+.\objects\myiwdg.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h
+.\objects\myiwdg.o: .\CMSIS\Include\core_cm0.h
+.\objects\myiwdg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\myiwdg.o: .\CMSIS\Include\core_cmInstr.h
+.\objects\myiwdg.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\myiwdg.o: .\CMSIS\Include\core_cmFunc.h
+.\objects\myiwdg.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
