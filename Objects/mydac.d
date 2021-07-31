@@ -1,0 +1,10 @@
+.\objects\mydac.o: Source\MyPeriph\mydac.c
+.\objects\mydac.o: Source\MyPeriph\mydac.h
+.\objects\mydac.o: .\Source\mainconfig.h
+.\objects\mydac.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h
+.\objects\mydac.o: .\CMSIS\Include\core_cm0.h
+.\objects\mydac.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mydac.o: .\CMSIS\Include\core_cmInstr.h
+.\objects\mydac.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\mydac.o: .\CMSIS\Include\core_cmFunc.h
+.\objects\mydac.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h

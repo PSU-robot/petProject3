@@ -1,0 +1,13 @@
+.\objects\modbus.o: Source\ModBus\ModBus.c
+.\objects\modbus.o: Source\ModBus\ModBus.h
+.\objects\modbus.o: .\Source\mainconfig.h
+.\objects\modbus.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h
+.\objects\modbus.o: .\CMSIS\Include\core_cm0.h
+.\objects\modbus.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\modbus.o: .\CMSIS\Include\core_cmInstr.h
+.\objects\modbus.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\modbus.o: .\CMSIS\Include\core_cmFunc.h
+.\objects\modbus.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\objects\modbus.o: .\Source\MyPeriph\fpuart1.h
+.\objects\modbus.o: .\Source\MyPeriph\fpu1h_conf.h
+.\objects\modbus.o: .\Source\MyPeriph\mytimer.h

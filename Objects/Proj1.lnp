@@ -1,0 +1,20 @@
+--cpu Cortex-M0
+".\objects\main.o"
+".\objects\mysettings.o"
+".\objects\ssec.o"
+".\objects\system_f051.o"
+".\objects\startup_stm32f0xx.o"
+".\objects\mydma.o"
+".\objects\myexti.o"
+".\objects\myflash.o"
+".\objects\mygpio.o"
+".\objects\myiwdg.o"
+".\objects\mytimer.o"
+".\objects\myuart.o"
+".\objects\fpuart1_051.o"
+".\objects\modbus.o"
+".\objects\modbusparams.o"
+--strict --scatter ".\Objects\Proj1.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Proj1.map" -o .\Objects\Proj1.axf

@@ -1,0 +1,16 @@
+.\objects\fpuart1_051.o: Source\MyPeriph\fpuart1_051.c
+.\objects\fpuart1_051.o: Source\MyPeriph\fpuart1.h
+.\objects\fpuart1_051.o: .\Source\mainconfig.h
+.\objects\fpuart1_051.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h
+.\objects\fpuart1_051.o: .\CMSIS\Include\core_cm0.h
+.\objects\fpuart1_051.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\fpuart1_051.o: .\CMSIS\Include\core_cmInstr.h
+.\objects\fpuart1_051.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\fpuart1_051.o: .\CMSIS\Include\core_cmFunc.h
+.\objects\fpuart1_051.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\objects\fpuart1_051.o: Source\MyPeriph\fpu1h_conf.h
+.\objects\fpuart1_051.o: Source\MyPeriph\mygpio.h
+.\objects\fpuart1_051.o: Source\MyPeriph\mydma.h
+.\objects\fpuart1_051.o: Source\MyPeriph\mytimer.h
+.\objects\fpuart1_051.o: Source\MyPeriph\myuart.h
+.\objects\fpuart1_051.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

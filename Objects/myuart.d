@@ -1,0 +1,10 @@
+.\objects\myuart.o: Source\MyPeriph\myuart.c
+.\objects\myuart.o: Source\MyPeriph\myuart.h
+.\objects\myuart.o: .\Source\mainconfig.h
+.\objects\myuart.o: .\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h
+.\objects\myuart.o: .\CMSIS\Include\core_cm0.h
+.\objects\myuart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\myuart.o: .\CMSIS\Include\core_cmInstr.h
+.\objects\myuart.o: .\CMSIS\Include\cmsis_armcc.h
+.\objects\myuart.o: .\CMSIS\Include\core_cmFunc.h
+.\objects\myuart.o: .\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h

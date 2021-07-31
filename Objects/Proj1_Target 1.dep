@@ -1,0 +1,164 @@
+Dependencies for Project 'Proj1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Source\main.c)(0x60A7BE74)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+I (.\Source\MyPeriph\mygpio.h)(0x58CD0E78)
+I (.\Source\MyPeriph\myiwdg.h)(0x59AFED42)
+I (Source\ssec.h)(0x609E5CB6)
+I (Source\mysettings.h)(0x60609E4A)
+F (.\Source\mysettings.c)(0x60609E98)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\mysettings.o --omf_browse .\objects\mysettings.crf --depend .\objects\mysettings.d)
+I (Source\mysettings.h)(0x60609E4A)
+I (Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+I (Source\ssec.h)(0x609E5CB6)
+I (.\Source\MyPeriph\myflash.h)(0x5ABE7C08)
+I (.\Source\ModBus\ModBus.h)(0x6035E2A2)
+I (Source\ModBusParams.h)(0x6060B906)
+I (.\Source\MyPeriph\myiwdg.h)(0x59AFED42)
+F (.\Source\ssec.c)(0x609E7F8A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\ssec.o --omf_browse .\objects\ssec.crf --depend .\objects\ssec.d)
+I (Source\ssec.h)(0x609E5CB6)
+I (Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+I (.\Source\MyPeriph\mytimer.h)(0x5D2A108E)
+I (.\Source\MyPeriph\mygpio.h)(0x58CD0E78)
+I (.\Source\MyPeriph\fpuart1.h)(0x6060967E)
+I (.\Source\MyPeriph\fpu1h_conf.h)(0x6060AC38)
+F (.\Source\system_f051.c)(0x5CF04698)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\system_f051.o --omf_browse .\objects\system_f051.crf --depend .\objects\system_f051.d)
+I (Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+F (.\Source\startup_stm32f0xx.s)(0x6037AA98)(--cpu Cortex-M0 -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 524" --pd "STM32F051x8 SETA 1"--list .\listings\startup_stm32f0xx.lst --xref -o .\objects\startup_stm32f0xx.o --depend .\objects\startup_stm32f0xx.d)
+F (.\Source\MyPeriph\mydma.c)(0x5D29D100)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\mydma.o --omf_browse .\objects\mydma.crf --depend .\objects\mydma.d)
+I (Source\MyPeriph\mydma.h)(0x5D29D100)
+I (.\Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+F (.\Source\MyPeriph\MyEXTI.c)(0x5C907440)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\myexti.o --omf_browse .\objects\myexti.crf --depend .\objects\myexti.d)
+I (Source\MyPeriph\MyEXTI.h)(0x5BFA6BEE)
+I (.\Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+F (.\Source\MyPeriph\myflash.c)(0x5ABE885A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\myflash.o --omf_browse .\objects\myflash.crf --depend .\objects\myflash.d)
+I (Source\MyPeriph\myflash.h)(0x5ABE7C08)
+I (.\Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+F (.\Source\MyPeriph\mygpio.c)(0x5CA140E4)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\mygpio.o --omf_browse .\objects\mygpio.crf --depend .\objects\mygpio.d)
+I (Source\MyPeriph\mygpio.h)(0x58CD0E78)
+I (.\Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+F (.\Source\MyPeriph\myiwdg.c)(0x59AFED42)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\myiwdg.o --omf_browse .\objects\myiwdg.crf --depend .\objects\myiwdg.d)
+I (Source\MyPeriph\myiwdg.h)(0x59AFED42)
+I (.\Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+F (.\Source\MyPeriph\mytimer.c)(0x59CA105C)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\mytimer.o --omf_browse .\objects\mytimer.crf --depend .\objects\mytimer.d)
+I (Source\MyPeriph\mytimer.h)(0x5D2A108E)
+I (.\Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+F (.\Source\MyPeriph\myuart.c)(0x5D2AB0FC)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\myuart.o --omf_browse .\objects\myuart.crf --depend .\objects\myuart.d)
+I (Source\MyPeriph\myuart.h)(0x5D2AB14E)
+I (.\Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+F (.\Source\MyPeriph\fpuart1_051.c)(0x6060AAC0)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\fpuart1_051.o --omf_browse .\objects\fpuart1_051.crf --depend .\objects\fpuart1_051.d)
+I (Source\MyPeriph\fpuart1.h)(0x6060967E)
+I (.\Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+I (Source\MyPeriph\fpu1h_conf.h)(0x6060AC38)
+I (Source\MyPeriph\mygpio.h)(0x58CD0E78)
+I (Source\MyPeriph\mydma.h)(0x5D29D100)
+I (Source\MyPeriph\mytimer.h)(0x5D2A108E)
+I (Source\MyPeriph\myuart.h)(0x5D2AB14E)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x588BC994)
+F (.\Source\ModBus\ModBus.c)(0x6060985A)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\modbus.o --omf_browse .\objects\modbus.crf --depend .\objects\modbus.d)
+I (Source\ModBus\ModBus.h)(0x6035E2A2)
+I (.\Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+I (.\Source\MyPeriph\fpuart1.h)(0x6060967E)
+I (.\Source\MyPeriph\fpu1h_conf.h)(0x6060AC38)
+I (.\Source\MyPeriph\mytimer.h)(0x5D2A108E)
+F (.\Source\ModBusParams.c)(0x6060C39E)(--c99 -c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I .\Source -I .\CMSIS\Device\ST\STM32F0xx\Include -I .\CMSIS\Include -I .\Source\ModBus -I .\Source\MyPeriph-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="524" -DSTM32F051x8-o .\objects\modbusparams.o --omf_browse .\objects\modbusparams.crf --depend .\objects\modbusparams.d)
+I (Source\ModBusParams.h)(0x6060B906)
+I (Source\mainconfig.h)(0x609E5894)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\stm32f051x8.h)(0x5CF04568)
+I (.\CMSIS\Include\core_cm0.h)(0x5978C20E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x588BC994)
+I (.\CMSIS\Include\core_cmInstr.h)(0x5978C20E)
+I (.\CMSIS\Include\cmsis_armcc.h)(0x5978C20E)
+I (.\CMSIS\Include\core_cmFunc.h)(0x5978C20E)
+I (.\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h)(0x5978C20E)
+I (.\Source\ModBus\ModBus.h)(0x6035E2A2)
+I (Source\mysettings.h)(0x60609E4A)
